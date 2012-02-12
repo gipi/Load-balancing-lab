@@ -1,0 +1,10 @@
+This is a Netkit laboratory
+
+
+ $ cd load_balancing_lab
+ $ lstart
+ [wait for machines to startup]
+
+when you are happy, you can halt all them with
+
+ $ vhalt
